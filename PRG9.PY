@@ -53,4 +53,16 @@ def solve_n_queens(N):
 
 
 N=4
-solve_n_queens(N)                
+solve_n_queens(N) 
+
+#OUTPUT: 
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
